@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <<<<< HEAD
+=======
+>>>>>>> 33c94e6fad4d1f9e8823c416e410c336372a7e7a
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -9,6 +12,7 @@
     <h1>Gatreh was here</h1>
 </body>
 </html>
+<<<<<<< HEAD
 =======
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -22,3 +26,5 @@
 </body>
 </html>
 >>>>>>> backend
+=======
+>>>>>>> 33c94e6fad4d1f9e8823c416e410c336372a7e7a
